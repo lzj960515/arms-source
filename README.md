@@ -32,6 +32,4 @@ arms init NAME   #NAME是搜索出的模版名称，例如universal-java
 * 需要先安装python3。
 * 如果是windows系统，需要进入linux终端，才能安装和使用arms。
 
-## 异常解决办法
 
-如果安装过程中出现问题，请参考： https://gitlab2.cqkqinfo.com/tool/source/-/issues/1
