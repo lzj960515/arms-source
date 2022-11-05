@@ -1,0 +1,8 @@
+{
+    "__url__": "https://github.com/lzj960515/arms-source.git",
+    "universal-java": {
+        "git_url": "git@github.com:lzj960515/kq-universal-server.git",
+        "description": "java on universal with CI",
+        "keywords": "universal,java"
+    }
+}
