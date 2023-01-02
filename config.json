@@ -6,7 +6,7 @@
         "keywords": "universal,java"
     },
     "universal-java-user": {
-        "git_url": "git@github.com:lzj960515/meeting-reservation.git",
+        "git_url": "git@github.com:lzj960515/kq-universal-user-server.git",
         "description": "包含了用户体系和登录逻辑的java模板",
         "keywords": "universal,java,user"
     }
