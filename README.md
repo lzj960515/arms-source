@@ -14,7 +14,7 @@ sudo pip3 install arms
 
 ## 初始化本地模版库
 ```
-arms config https://gitlab2.cqkqinfo.com/tool/source.git
+arms config https://github.com/lzj960515/arms-source.git
 ```
 
 ## 更新本地模版库
